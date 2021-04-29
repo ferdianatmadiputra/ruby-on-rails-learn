@@ -3,11 +3,18 @@ create new project
 ```
 rails new learn-ruby-on-rails
 ```
+
+create new controller(s)
+```
+bin/rails generate controller Say hello goodbye
+```
+
 examine the installation
 ```
 bin/rails about
 windows: ruby bin\rails about
 ```
+
 starting the server
 ```
 bin/rails server
