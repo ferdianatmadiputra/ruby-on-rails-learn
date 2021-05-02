@@ -35,6 +35,11 @@ rolling back the migration
   ```
   bin/rails db:rollback
   ```
+toggle caching on/off in dev env
+  ```
+  bin/rails dev:cache
+  ```
+
 ----------------------------------
 ## Chapter 18
 ### Where things go
